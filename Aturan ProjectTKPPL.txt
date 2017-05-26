@@ -1,0 +1,10 @@
+Selamat Datang di Project TKPPL 
+
+Berikut saya lampirkan Aturan dalam pengerjaan Proyek : 
+1. Sistem kerja dengan menggunakan metode SPRINT "Yaitu harus melalukan commit tiap hari";
+2. Wajib Mengisi Absensi Setelah melakukan koneksi ke Repository.
+3. Dapat ditambahkan oleh SCRUM Master Selanjutnya.
+
+Terima Kasih
+
+Best Regards : "Andrew "Babayaga"";
